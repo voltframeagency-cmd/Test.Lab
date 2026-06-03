@@ -46,6 +46,14 @@ A centralized index listing all **36 Creative Developer Toolboxes** compiled in 
 
 ---
 
+## Reverse-Engineering Manuals
+
+| Library / Toolbox | Manual Link | Focus Area | Status |
+|---|---|---|---|
+| **Unlumen UI Engineering Manual** | [unlumen_ui_reverse_engineering.md](unlumen_ui_reverse_engineering.md) | WebGL attenuation & ripple formulas, spring-jump physics, proximity magnification, and trail velocity triggers | `Completed` |
+
+---
+
 ### Quick Install Commands Summary
 
 To add components from these registries directly to your workspace, run the respective CLI command:
