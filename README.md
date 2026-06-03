@@ -13,6 +13,7 @@ A centralized index listing all **36 Creative Developer Toolboxes** compiled in 
 | **BoldKit Creative Developer Toolbox Reference Guide** | [boldkit_creative_toolbox.md](boldkit_creative_toolbox.md) | `77` components | 539.07 KB |
 | **Chamaac UI Creative Developer Toolbox Reference Guide** | [chamaacui_creative_toolbox.md](chamaacui_creative_toolbox.md) | `90` components | 338.81 KB |
 | **Chanhdai UI Creative Developer Reference Guide** | [chanhdai_creative_toolbox.md](chanhdai_creative_toolbox.md) | `40` components | 152.11 KB |
+| **Codrops Creative Developer Reference Guide** | [codrops_creative_toolbox.md](codrops_creative_toolbox.md) | `344` experiments | 47.82 KB |
 | **Componentry Creative Developer Reference Guide** | [componentry_creative_toolbox.md](componentry_creative_toolbox.md) | `45` components | 565.39 KB |
 | **Cult UI Creative Developer Toolbox Reference Guide** | [cult_ui_creative_toolbox.md](cult_ui_creative_toolbox.md) | `618` components | 1813.70 KB |
 | **Devl UI Creative Developer Reference Guide** | [devl_ui_creative_toolbox.md](devl_ui_creative_toolbox.md) | `10` components | 84.99 KB |
