@@ -1,0 +1,6 @@
+- `[ ]` Create destination folder `c:\Users\mahdi\Downloads\creative-developer-toolbox`
+- `[ ]` Copy all 36 `.md` reference guides and `index.md` from the brain folder
+- `[ ]` Parse files and convert absolute `file:///` links to clean relative links
+- `[ ]` Rename `index.md` to `README.md`
+- `[ ]` Initialize Git repository (`git init`), add files, and make initial commit
+- `[ ]` Verify files and relative link paths
